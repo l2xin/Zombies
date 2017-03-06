@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombies.CSharp.Plugins", "Zombies.CSharp.Plugins.csproj", "{54589F93-1A31-4C42-699C-8A72F7E422F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombies.CSharp", "Zombies.CSharp.csproj", "{FDD0CAE6-E908-6DDA-443D-2D979DF3B447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombies.CSharp.Editor", "Zombies.CSharp.Editor.csproj", "{5040F7C2-484E-95EB-4095-35D097C862A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54589F93-1A31-4C42-699C-8A72F7E422F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54589F93-1A31-4C42-699C-8A72F7E422F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54589F93-1A31-4C42-699C-8A72F7E422F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54589F93-1A31-4C42-699C-8A72F7E422F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD0CAE6-E908-6DDA-443D-2D979DF3B447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD0CAE6-E908-6DDA-443D-2D979DF3B447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD0CAE6-E908-6DDA-443D-2D979DF3B447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD0CAE6-E908-6DDA-443D-2D979DF3B447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5040F7C2-484E-95EB-4095-35D097C862A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5040F7C2-484E-95EB-4095-35D097C862A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5040F7C2-484E-95EB-4095-35D097C862A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5040F7C2-484E-95EB-4095-35D097C862A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

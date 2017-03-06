@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 842bc6b647ac69b48bbc39830a2b009a
+labels:
+- Memory
+- Optimization
+- Optimize
+- Optimizer
+- Overview
+- Plugin
+- Profiler
+- Texture
+- Utility
+- Statistics
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
